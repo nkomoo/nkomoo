@@ -10,13 +10,12 @@ Hi there, I'm Chantele! I transitioned into tech from a non-technical background
 I'M CURRENTLY LEARNING 
 ----------------------
 
-- Nodejs and REACT
+- HTML, CSS, JavaScript, Nodejs and REACT
 - I am working on my problem solving, communication (cross team collaboration) and leadership skills through:
 
 ----------------------
 MY PROJECTS
 ----------------------
-
 
 
 ----------------------
