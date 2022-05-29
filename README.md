@@ -10,8 +10,8 @@ Hi there, I'm Chantele! I transitioned into tech from a non-technical background
 I'M CURRENTLY LEARNING 
 ----------------------
 
-- • Nodejs and REACT
-- • I am working on my problem solving, communication (cross team collaboration) and leadership skills through:
+- Nodejs and REACT
+- I am working on my problem solving, communication (cross team collaboration) and leadership skills through:
 
 ----------------------
 MY PROJECTS
@@ -23,7 +23,7 @@ MY PROJECTS
 FUTURE ACHIEVEMENTS
 ----------------------
 
-- • AWS
+- AWS
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkomoo&layout=compact)](https://github.com/nkomoo)
