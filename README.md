@@ -14,10 +14,16 @@ I'M CURRENTLY LEARNING
 • I am working on my problem solving, communication (cross team collaboration) and leadership skills through:
 
 ----------------------
+MY PROJECTS
+----------------------
+
+
+
+----------------------
 FUTURE ACHIEVEMENTS
 ----------------------
 
 • AWS
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkomoo&layout=compact)](https://github.com/nkomoo)
