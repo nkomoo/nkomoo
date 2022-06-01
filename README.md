@@ -1,30 +1,29 @@
-<h3> Hello </h3>
 
-Hi there, I'm Chantele! I transitioned into tech from a non-technical background January 2022. However l had previously knew about HTML and CSS for Web Development on Nitendo DSi Browser's 👋
+  
+<h3 align="center"> I'm Chantele Nkomo 👋🏾 </h3>
 
-- 📚 I am currently completing a 14-week bootcamp on Frontend development. Previously in 2022, l had completed a bootcamp on Python & Apps with Code First Girls 
-- 👯I am looking to collaborate on any software development projects and hack-a-thons
-- 📫 I can be reached using this email: nkomochantele@gmail.com
-- ✨ Pronouns: She/Her
-- ⚡ A fun fact about me is that l am neurodivergent
+<h4 align="center">I'm a Frontend Developer, an advocate for Neurodiversity and Inclusivity and a Doer' ✨</h4>
 
-----------------------
-I'M CURRENTLY LEARNING 
-----------------------
-
-- HTML, CSS, JavaScript, Nodejs and REACT
-- I am working on my problem solving, communication (cross team collaboration) and leadership skills in the Bootcamp(s). 
-
-----------------------
-MY PROJECTS
-----------------------
-
-
-----------------------
-FUTURE ACHIEVEMENTS
-----------------------
-
-- AWS
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkomoo&layout=compact)](https://github.com/nkomoo)
+<h2><u>Get to Know Me</u></h2>
+<ul>
+  <li>My love for technology began at a young age.</li>
+  <li>I am neurodivergent 🧠</li>
+  <li>I am from South Africa</li>
+  <li>Completed a Python & Apps with Code First Girls</li>
+  <li>Completed a bootcamp with PurpleBeard 📚</li>
+  <li>Pronouns: <b>She/Her</b></li>
+  </ul>
+<h2><u>Currently learning</u></h2>
+<ul>
+  <li>Javascript</li>
+  <li>NodeJS</li>
+  <li>React</li>
+  </ul>
+<h2><u>My current techstack</u></h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Javascript</li>
+  <li>NodeJS</li>
+  <li>React</li>
+  </ul>
