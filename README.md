@@ -11,7 +11,7 @@ I'M CURRENTLY LEARNING
 ----------------------
 
 - HTML, CSS, JavaScript, Nodejs and REACT
-- I am working on my problem solving, communication (cross team collaboration) and leadership skills through:
+- I am working on my problem solving, communication (cross team collaboration) and leadership skills in the Bootcamp(s). 
 
 ----------------------
 MY PROJECTS
