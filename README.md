@@ -1,3 +1,5 @@
+<h3> Hello </h3>
+
 Hi there, I'm Chantele! I transitioned into tech from a non-technical background January 2022. However l had previously knew about HTML and CSS for Web Development on Nitendo DSi Browser's 👋
 
 - 📚 I am currently completing a 14-week bootcamp on Frontend development. Previously in 2022, l had completed a bootcamp on Python & Apps with Code First Girls 
