@@ -16,7 +16,7 @@ I'M CURRENTLY LEARNING
 ----------------------
 MY PROJECTS
 ----------------------
-- Restuarant landing page (south-african) using CSS Grid.
+
 
 ----------------------
 FUTURE ACHIEVEMENTS
