@@ -19,11 +19,12 @@
   <li>NodeJS</li>
   <li>React</li>
   </ul>
-<h2><u>My current techstack</u></h2>
+<h2><u>My current tech stack</u></h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Javascript</li>
   <li>NodeJS</li>
   <li>React</li>
+  <li>Python</li>
   </ul>
