@@ -24,7 +24,6 @@
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Javascript</li>
-  <li>JQuery</li>
   <li>NodeJS</li>
   <li>React</li>
   <li>Python</li>
